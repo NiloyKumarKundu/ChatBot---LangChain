@@ -101,18 +101,6 @@ Once the server is up, the chatbot's translation API is accessible at `/chain`.
 
 ---
 
-## 🌟 Screenshots
-
-I'll add screenshots from the **LangServe Playground** here soon to show how the chatbot performs in action!
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Acknowledgments
 
 Big thanks to the teams behind **LangChain**, **GROQ**, and **FastAPI** for their awesome tools that made this project possible!
